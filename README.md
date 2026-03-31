@@ -5,13 +5,18 @@ I’m driven by a deep curiosity for how things work and a passion for solving p
 
 ---
 
-## 🔧 What I Work With
+## 🔧 Certifications
 
-- **SQL** — Currently levelling up through a range of SQL challenges focused on data handling and querying.  
-- **Alteryx** — Experienced in cleaning, transforming, and preparing complex datasets.  
-- **Tableau** — Enjoy experimenting with creative ways to showcase data storytelling.
-- **Power BI** — Creating dashboards that provide insight and help drive decisions.
-- **Python** — Used for web scraping, automation, and data reshaping.  
+<div align="center">
+
+<a href="https://www.salesforce.com/trailblazer/f3n5g8qdktl11q5sjh">
+<img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
+<a href="https://www.credly.com/badges/26e59566-298a-43e9-a077-5304c5fe2943/public_url">
+<img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
+<a href="https://www.credly.com/badges/faf60bf2-082d-4783-a820-0eaa7ef519a1/public_url">
+<img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="12.5%">
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/JosephDarton-1848/649B02CE7C8CDA78?sharingId=3A3E72A034750658">
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
 
 ---
 
