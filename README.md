@@ -25,15 +25,11 @@ I’m driven by a deep curiosity for how things work and a passion for solving p
 </div>
 
 ## 💼 Experience
-Underwent 4 months of training in Tableau, Power BI, and Alteryx through the Data School at the Information Lab before going onto placements at the following clients:
+Underwent 4 months of training in Tableau, Power BI, and Alteryx through the Data School at the Information Lab where we carried out week-long projects across various industries with companies like Flutter, RFU, IAG Cargo, Trium Environmental Consulting, PHL Group, and Infotopics. After training I worked on long term projects at the following companies:
 
 <details>
 <summary>🏦 Barclays Investment Bank</summary>
 <br>
-### **Health Advisor @ BUPA**
-- Assisted clients in interpreting visual representations of health metrics and providing long‑term wellness advice.  
-- Developed a **semi‑automated workflow** for tracking blood test results, which reduced turnaround times across several London clinics.
-- Project C
 
 ---
 </details>
