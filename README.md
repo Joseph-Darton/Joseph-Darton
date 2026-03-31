@@ -7,8 +7,6 @@ I’m driven by a deep curiosity for how things work and a passion for solving p
 
 ## 🔧 Certifications
 
-<div align="center">
-
 <a href="https://www.salesforce.com/trailblazer/f3n5g8qdktl11q5sjh">
 <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
 <a href="https://www.credly.com/badges/26e59566-298a-43e9-a077-5304c5fe2943/public_url">
