@@ -1,11 +1,16 @@
 
 ## 👋 Hi, I’m Joe
 
+🧑‍🎓 Studied Physiology and Nutrition at Loughborough University, UK <br/>
+
+**Data Analytics Consultant** at [The Information Lab](https://www.theinformationlab.co.uk/)
+
 I’m driven by a deep curiosity for how things work and a passion for solving problems—whether that’s cracking the daily Wordle or cleaning complex datasets with Alteryx. My inquisitive mindset and eye for patterns fuel a continuous exploration of new tools, techniques, and perspectives to ask better questions and deliver impactful solutions.
 
 ---
 
 ## 🔧 Certifications
+<div align="center">
 
 <a href="https://www.salesforce.com/trailblazer/f3n5g8qdktl11q5sjh">
 <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
@@ -17,35 +22,21 @@ I’m driven by a deep curiosity for how things work and a passion for solving p
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
 
 ---
+</div>
 
-## 🩺 Professional Background
+## 💼 Experience
+Underwent 4 months of training in Tableau, Power BI, and Alteryx through the Data School at the Information Lab before going onto placements at the following clients:
 
+<details>
+<summary>🏦 Barclays Investment Bank</summary>
+<br>
 ### **Health Advisor @ BUPA**
 - Assisted clients in interpreting visual representations of health metrics and providing long‑term wellness advice.  
 - Developed a **semi‑automated workflow** for tracking blood test results, which reduced turnaround times across several London clinics.
-
-### **Data Analytics Consultant @ Barclays**
-- Assisted clients in interpreting visual representations of health metrics and providing long‑term wellness advice.  
-- Developed a **semi‑automated workflow** for tracking blood test results, which reduced turnaround times across several London clinics.
----
-
-## 🎓 Academic Experience
-
-**BSc Physiology and Nutrition (Sport & Exercise Science) – Loughborough University**
- 
-- Gained experience in high‑pressure, data‑driven environments, including:
-  - **Fulham FC First Team** – GPS data monitoring  
-  - **Leicester Riders Women’s Team** – Performance analysis  
+- Project C
 
 ---
-
-## ⚽ Outside of Work
-
-- I stay active through football, weightlifting, and running.  
-- Big fan of open‑world single‑player RPGs and Sci‑Fi/Fantasy TV shows.  
-- Most weekends, you’ll find me at the **Emirates Stadium** hoping to see Arsenal lift a trophy.
-
----
+</details>
 
 ## 📬 Let’s Connect
 
