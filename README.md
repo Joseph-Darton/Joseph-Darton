@@ -31,6 +31,11 @@ Underwent 4 months of training in Tableau, Power BI, and Alteryx through the Dat
 <summary>🏦 Barclays Investment Bank</summary>
 <br>
 
+- Worked on multiple high‑impact Tableau analytics projects within Alternative Asset Management and Investment Banking
+- Re‑engineered over 30 dashboards under tight deadlines to optimise performance from 2–3 minutes to ~15 seconds
+- Delivered scalable PDF export solutions to meet business requirements via Tableau Server
+- Independently designed a senior‑management dashboard, evolving it from a slow, highly tabular view into a performant and insight‑driven product with progressive drill‑down features
+
 ---
 </details>
 
