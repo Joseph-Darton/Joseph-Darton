@@ -31,10 +31,12 @@ Underwent 4 months of training in Tableau, Power BI, and Alteryx through the Dat
 <summary>🏦 Barclays Investment Bank</summary>
 <br>
 
-- Worked on multiple high‑impact Tableau analytics projects within Alternative Asset Management and Investment Banking
-- Re‑engineered over 30 dashboards under tight deadlines to optimise performance from 2–3 minutes to ~15 seconds
-- Delivered scalable PDF export solutions to meet business requirements via Tableau Server
-- Independently designed a senior‑management dashboard, evolving it from a slow, highly tabular view into a performant and insight‑driven product with progressive drill‑down features
+- Reworked a suite of 38 Tableau dashboards monitoring financial data within a 1–2 week deadline, cutting load times from 2–3 minutes to ~15 seconds by analysing SQL queries in Tableau Server performance recordings, removing LOD calculations and splitting the data model into domain-specific workbooks.
+- Built hidden, export-ready versions of dashboards with isolated scrolling tables so full data could be exported to PDF, supporting a Python/Tableau Server REST API portal that gave employers access while travelling.
+- Developed a report for senior management, redesigning a slow, tabular view of 5M+ rows into a progressive high-level to granular analysis with staged filtering; later added a single-client product breakdown on a non-aggregated source, passing client ID from aggregated views to preserve performance.
+- Designed a parameter-driven alerting dashboard using nested CASE calculations to return a Boolean flag that triggers Tableau Server alert emails, and advised on licence-based governance and URL-action drill-throughs to client detail.
+- Provided metric views at the correct granularity for a Python-based alert and PDF workflow, and helped scope technical dependencies with stakeholders, including scheduling, service accounts, SSO and security review.
+- Created a general-use client interactions dashboard, and supported teammates on ad hoc tasks during data access delays.
 
 ---
 </details>
