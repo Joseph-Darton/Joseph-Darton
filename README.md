@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Joe
 
-🧑‍🎓 Studied Physiology and Nutrition at Loughborough University, UK <br/>
+🧑‍🎓 Studied MSc Physiology and Nutrition at Loughborough University, UK <br/>
 
 **Data Analytics Consultant** at [The Information Lab](https://www.theinformationlab.co.uk/)
 
